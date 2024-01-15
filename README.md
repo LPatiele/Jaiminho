@@ -10,3 +10,6 @@ A idéia aqui é utilizar apenas tecnologias brasileiras e preferencialmente de 
 Devemos olhar para o publico de usuários brasileiros e considerar a diversidade cultural do nosso país em cada etapa do desenvolvimento deste projetinho.
 
 Pouco texto pq eu sou preguiçosa e não to afim de perder os 15 minutos de hoje só escrevendo um readme.
+
+Fase atual do projeto:
+ "Procurando outros doidos que queiram gastar 15 minutos de seus dias comigo nesse negóço e pesquisa de tecnologias viáveis."
